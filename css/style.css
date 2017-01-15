@@ -1,0 +1,14 @@
+body {
+  background: blue; }
+
+.home-page {
+  -webkit-transform: translateX(-20%);
+      -ms-transform: translateX(-20%);
+          transform: translateX(-20%); }
+  .home-page h2 {
+    color: red; }
+
+.nav {
+  color: yellow;
+  width: 100%;
+  box-shadow: 1px 1px 1px #ccc; }

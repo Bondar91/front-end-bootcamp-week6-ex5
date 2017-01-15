@@ -1,0 +1,17 @@
+body {
+    background: blue;
+}
+
+.home-page {
+    transform: translateX(-20%);
+
+    h2 {
+    	color: red;
+    }
+}
+
+.nav {
+    color: yellow;
+    width: 100%;
+ 	box-shadow: 1px 1px 1px #ccc;
+}
